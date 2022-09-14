@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-world-clock-assignment/static/css/main.6a8a591e.css",
+    "main.js": "/react-world-clock-assignment/static/js/main.1292b1e3.js",
+    "index.html": "/react-world-clock-assignment/index.html",
+    "main.6a8a591e.css.map": "/react-world-clock-assignment/static/css/main.6a8a591e.css.map",
+    "main.1292b1e3.js.map": "/react-world-clock-assignment/static/js/main.1292b1e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8a591e.css",
+    "static/js/main.1292b1e3.js"
+  ]
+}
